@@ -9,6 +9,10 @@ The project is divided into two main parts:
 -   `frontend/`: A React application created with Vite.
 -   `backend/`: A Node.js and Express server.
 
+## Application Screenshot
+
+![Application Screenshot](./frontend/public/Catalogo.jpeg)
+
 ## Getting Started
 
 ### Prerequisites
