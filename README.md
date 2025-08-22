@@ -1,55 +1,55 @@
 # E-commerce Game V.3
 
-This is a full-stack e-commerce application for video games.
+Esta es una aplicación de comercio electrónico full-stack para videojuegos.
 
-## Project Structure
+## Estructura del Proyecto
 
-The project is divided into two main parts:
+El proyecto se divide en dos partes principales:
 
--   `frontend/`: A React application created with Vite.
--   `backend/`: A Node.js and Express server.
+-   `frontend/`: Una aplicación de React creada con Vite.
+-   `backend/`: Un servidor de Node.js y Express.
 
-## Application Screenshot
+## Captura de Pantalla de la Aplicación
 
-![Application Screenshot](./frontend/public/Catalogo.jpeg)
+![Captura de Pantalla de la Aplicación](./frontend/public/Catalogo.jpeg)
 
-## Getting Started
+## Cómo Empezar
 
-### Prerequisites
+### Prerrequisitos
 
 -   Node.js
 -   npm
 -   PostgreSQL
 
-### Backend Setup
+### Configuración del Backend
 
-1.  Navigate to the `backend` directory:
+1.  Navega al directorio `backend`:
     ```bash
     cd backend
     ```
-2.  Install the dependencies:
+2.  Instala las dependencias:
     ```bash
     npm install
     ```
-3.  Create a `.env` file and configure your database connection and other environment variables.
-4.  Start the server:
+3.  Crea un archivo `.env` y configura la conexión a tu base de datos y otras variables de entorno.
+4.  Inicia el servidor:
     ```bash
     npm start
     ```
 
-### Frontend Setup
+### Configuración del Frontend
 
-1.  Navigate to the `frontend` directory:
+1.  Navega al directorio `frontend`:
     ```bash
     cd frontend
     ```
-2.  Install the dependencies:
+2.  Instala las dependencias:
     ```bash
     npm install
     ```
-3.  Start the development server:
+3.  Inicia el servidor de desarrollo:
     ```bash
     npm run dev
     ```
 
-The application should now be running on your local machine.
+La aplicación ahora debería estar ejecutándose en tu máquina local.
